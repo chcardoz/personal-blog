@@ -8,3 +8,6 @@ node_modules
 !.env.example
 vite.config.js.timestamp-*
 vite.config.ts.timestamp-*
+
+# Sanity studio will be built in static/studio, which should not be committed
+/static/studio
